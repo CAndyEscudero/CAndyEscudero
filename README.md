@@ -21,16 +21,15 @@
 
 <h2>🛠 Tecnologías y Herramientas</h2>
 
-![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
-![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
-![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
+![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
-![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
-![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
 ![Pytest](http://img.shields.io/badge/-Pytest-white?style=flat-square&logo=pytest)
+![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
 
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white)
