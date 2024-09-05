@@ -4,7 +4,7 @@
 
 <br>
 <br>  
-<h2🚀 ¿Qué Hago?
+<h2>🚀 ¿Qué Hago?</h2>
 
 <ul>
   <li><strong>Desarrollo de Software:</strong> Trabajando en proyectos que abarcan desde aplicaciones web hasta herramientas de automatización.</li>
