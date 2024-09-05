@@ -4,13 +4,14 @@
 
 <br>
 <br>  
-<h3>🚀 ¿Qué Hago?</h3>
+<h4>🚀 ¿Qué Hago?
 
 <ul>
   <li><strong>Desarrollo de Software:</strong> Trabajando en proyectos que abarcan desde aplicaciones web hasta herramientas de automatización.</li>
   <li><strong>Aprendizaje Continuo:</strong> Siempre en busca de nuevas tecnologías y técnicas para mejorar mis habilidades.</li>
   <li><strong>Compartir Conocimiento:</strong> Me encanta compartir lo que aprendo, ya sea a través de tutoriales, artículos o colaboraciones en proyectos de código abierto.</li>
 </ul>
+</h4>
 <br>
 <br>
 - **🛠 Tecnologías y Herramientas**:
