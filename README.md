@@ -28,7 +28,6 @@
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
 ![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
-![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 ![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
 ![Pytest](http://img.shields.io/badge/-Pytest-white?style=flat-square&logo=pytest)
