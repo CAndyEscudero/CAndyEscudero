@@ -3,8 +3,16 @@
 </p>
 
 <br>
-<br>   
-    
+<br>  
+<h3>🚀 ¿Qué Hago?</h3>
+
+<ul>
+  <li><strong>Desarrollo de Software:</strong> Trabajando en proyectos que abarcan desde aplicaciones web hasta herramientas de automatización.</li>
+  <li><strong>Aprendizaje Continuo:</strong> Siempre en busca de nuevas tecnologías y técnicas para mejorar mis habilidades.</li>
+  <li><strong>Compartir Conocimiento:</strong> Me encanta compartir lo que aprendo, ya sea a través de tutoriales, artículos o colaboraciones en proyectos de código abierto.</li>
+</ul>
+<br>
+<br>
 - **🛠 Tecnologías y Herramientas**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,17 +37,11 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>
-<h1>¡Hola! Soy Cristian Andrés Escudero 👋</h1>
 
-<p>Soy un apasionado de la programación y la tecnología con un entusiasmo constante por aprender y compartir conocimientos. Mi nombre es <a href="#">Cristian Andrés Escudero</a>, también conocido como <a href="#">CAndyEscudero</a>, y me dedico a explorar nuevas tecnologías y mejorar mis habilidades en programación.</p>
 
-<h2>🚀 ¿Qué Hago?</h2>
 
-<ul>
-  <li><strong>Desarrollo de Software:</strong> Trabajando en proyectos que abarcan desde aplicaciones web hasta herramientas de automatización.</li>
-  <li><strong>Aprendizaje Continuo:</strong> Siempre en busca de nuevas tecnologías y técnicas para mejorar mis habilidades.</li>
-  <li><strong>Compartir Conocimiento:</strong> Me encanta compartir lo que aprendo, ya sea a través de tutoriales, artículos o colaboraciones en proyectos de código abierto.</li>
-</ul>
+
+
 
 <h2>🛠 Tecnologías y Herramientas</h2>
 
