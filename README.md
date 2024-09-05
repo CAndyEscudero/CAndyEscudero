@@ -13,7 +13,7 @@
 <ul>
   <li><strong>Desarrollo de Software:</strong> Trabajando en proyectos que abarcan desde aplicaciones web hasta herramientas de automatización.</li>
   <li><strong>Aprendizaje Continuo:</strong> Siempre en busca de nuevas tecnologías y técnicas para mejorar mis habilidades.</li>
-  <li><strong>Compartir Conocimiento:</strong> Me encanta compartir lo que aprendo, ya sea a través de tutoriales, artículos o colaboraciones en proyectos de código abierto.</li>
+  <li><strong>Compartir Conocimiento:</strong> Me encanta compartir lo que aprendo, ya sea a través de colaboraciones en proyectos de código abierto o con mis compañeros de la Facultad.</li>
 </ul>
 
 <br>
@@ -44,13 +44,6 @@
 
 <br>
 <br>
-
-<h2>🌟 Proyectos Destacados</h2>
-<ul>
-  <li><a href="#">Nombre del Proyecto 1</a>:
-  Breve descripción del proyecto, tecnologías utilizadas y logros.</li>
-  <li><a href="#">Nombre del Proyecto 2</a>: Breve descripción del proyecto, tecnologías utilizadas y logros.</li>
-</ul>
 
 <h2>📚 ¿Qué Busco?</h2>
 <p>Estoy siempre abierto a nuevas oportunidades para colaborar en proyectos interesantes, aprender nuevas habilidades y contribuir a la comunidad tecnológica. Si tienes un proyecto emocionante o una idea para colaborar, ¡no dudes en contactarme!</p>
