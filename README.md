@@ -45,8 +45,6 @@
   <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
 </p>
 <br>
-<br>
-
 <h2>📚 ¿Qué Busco?</h2>
 <p>Estoy siempre abierto a nuevas oportunidades para colaborar en proyectos interesantes, aprender nuevas habilidades y contribuir a la comunidad tecnológica. Si tienes un proyecto emocionante o una idea para colaborar, ¡no dudes en contactarme!</p>
 
