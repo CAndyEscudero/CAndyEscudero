@@ -52,8 +52,15 @@
 ## GitHub en numeros
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CAndyEscudero&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAndyEscudero&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Top languages">
+  <a href="https://github.com/CAndyEscudero?tab=followers">
+    <img src="https://img.shields.io/github/followers/CAndyEscudero?style=for-the-badge&logo=github&label=Seguidores" alt="Seguidores">
+  </a>
+  <a href="https://github.com/CAndyEscudero/Proyecto_Podologia/stargazers">
+    <img src="https://img.shields.io/github/stars/CAndyEscudero/Proyecto_Podologia?style=for-the-badge&logo=github&label=Stars%20Proyecto%20Podologia" alt="Stars Proyecto Podologia">
+  </a>
+  <a href="https://github.com/CAndyEscudero/Proyecto_Podologia">
+    <img src="https://img.shields.io/github/last-commit/CAndyEscudero/Proyecto_Podologia?style=for-the-badge&label=Ultimo%20update" alt="Ultimo update Proyecto Podologia">
+  </a>
 </p>
 
 ## Lo que busco
