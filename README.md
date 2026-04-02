@@ -1,49 +1,67 @@
-<h1 align="center"><b>Hola 👋 Soy Andy Escudero ✨</b></h1>
+<h1 align="center">Andy Escudero</h1>
 
 <p align="center">
-  <a href="https://github.com/CAndyEscudero">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=+Estudiante+Apasionado+Por+La+Programacion+;Cursando+Programacion+En+La+UTN..&hearts;" alt="Typing SVG">
+  Estudiante de Programacion en UTN, enfocado en desarrollo fullstack, backend y construccion de proyectos reales.
+</p>
+
+<p align="center">
+  <a href="https://github.com/CAndyEscudero?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorios">
+  </a>
+  <a href="https://github.com/CAndyEscudero/Proyecto_Podologia">
+    <img src="https://img.shields.io/badge/Proyecto%20Destacado-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Proyecto destacado">
   </a>
 </p>
 
-<br>
-<br>
+## Sobre mi
 
-<h2>🚀 ¿Qué Hago?</h2>
-<ul>
-  <li><strong>Desarrollo de Software:</strong> Trabajando en proyectos que abarcan desde aplicaciones web hasta herramientas de automatización.</li>
-  <li><strong>Aprendizaje Continuo:</strong> Siempre en busca de nuevas tecnologías y técnicas para mejorar mis habilidades.</li>
-  <li><strong>Compartir Conocimiento:</strong> Me encanta compartir lo que aprendo, ya sea a través de colaboraciones en proyectos de código abierto o con mis compañeros de la Facultad.</li>
-</ul>
+- Actualmente curso Programacion en UTN y llevo ese aprendizaje a proyectos concretos.
+- Me interesa construir aplicaciones web utiles, APIs claras y entornos de trabajo ordenados.
+- Disfruto mejorar arquitectura, documentacion y experiencia de uso, no solo escribir codigo.
 
-<br>
-<br>
+## En lo que estoy trabajando
 
-<h2>🛠 Tecnologías y Herramientas</h2>
+- Aplicaciones fullstack con Angular, React, Node.js, Express, Prisma y MySQL.
+- Entornos reproducibles con Docker para desarrollo local y despliegues mas simples.
+- Flujos funcionales orientados a negocio, incluyendo demos en Odoo.
 
-![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
-![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
-![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
-![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
-![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
-![Pytest](http://img.shields.io/badge/-Pytest-white?style=flat-square&logo=pytest)
-![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
+## Stack principal
 
-![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
-![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
-![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
-
-
-
-<h2>☁ Cloud Hosting</h2>
 <p>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
-<br>
-<h2>📚 ¿Qué Busco?</h2>
-<p>Estoy siempre abierto a nuevas oportunidades para colaborar en proyectos interesantes, aprender nuevas habilidades y contribuir a la comunidad tecnológica. Si tienes un proyecto emocionante o una idea para colaborar, ¡no dudes en contactarme!</p>
+
+## Proyectos destacados
+
+- [Proyecto Podologia](https://github.com/CAndyEscudero/Proyecto_Podologia): rebuild fullstack con frontend en React + Vite + Tailwind y backend en Express + Prisma + MySQL + JWT.
+- [Backend con Node.js, Express y Docker](https://github.com/CAndyEscudero/Backend-con-Node.js-Express-y-Docker): API REST con autenticacion, roles, productos, pedidos y entorno dockerizado.
+- [Odoo Functional Demo Agro](https://github.com/CAndyEscudero/odoo-functional-demo-agro): demo funcional centrada en compras, inventario y ventas con foco en procesos operativos reales.
+- [Crud Angular](https://github.com/CAndyEscudero/Crud-Angular): proyecto de practica para reforzar estructura de aplicaciones y flujo CRUD con Angular.
+
+## GitHub en numeros
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CAndyEscudero&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAndyEscudero&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Top languages">
+</p>
+
+## Lo que busco
+
+Estoy abierto a oportunidades donde pueda aportar como desarrollador junior, seguir creciendo en proyectos reales y sumar experiencia en equipos que valoren el aprendizaje continuo y la calidad tecnica.
+
+## Contacto
+
+- GitHub: [@CAndyEscudero](https://github.com/CAndyEscudero)
+- Repositorios: [github.com/CAndyEscudero?tab=repositories](https://github.com/CAndyEscudero?tab=repositories)
 
